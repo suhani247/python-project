@@ -1,5 +1,7 @@
 import nltk
 
+
+
 fileLines = open('abc.txt', 'r').readlines()
 tokens = []
 i = 0
